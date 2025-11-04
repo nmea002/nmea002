@@ -5,6 +5,7 @@
 - 📖 Avid Reader, I really like memoirs
 - ⚡ Seeking Summer 2026 Internships
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noah-mea/)
+- [TE and WR NFL Combine Data Analysis Dashboard](https://public.tableau.com/app/profile/noah.mea2998/viz/HowNFLCombineResultsPredictReceivingYardsperGameforTEsandWRs/Dashboard12)
 
 <!--
 **nmea002/nmea002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
