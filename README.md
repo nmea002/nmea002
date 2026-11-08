@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Noah 
 
 ### About Me:
-- 🌱 Data Science student at Kean Univeristy
+- 🌱 Data Science student at Kean University
 - 📖 Avid Reader, I really like memoirs
-- ⚡ Seeking Summer 2026 Internships
+- ⚡ Seeking Machine Learning Engineer / AI Engineer Early Career Roles
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noah-mea/)
-- [TE and WR NFL Combine Data Analysis Dashboard](https://public.tableau.com/app/profile/noah.mea2998/viz/HowNFLCombineResultsPredictReceivingYardsperGameforTEsandWRs/Dashboard12)
 
 <!--
 **nmea002/nmea002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
