@@ -3,7 +3,7 @@
 ### About Me:
 - 🌱 Data Science student at Kean University
 - 📖 Avid Reader, I really like memoirs
-- ⚡ Seeking Machine Learning Engineer / AI Engineer Early Career Roles
+- ⚡ Seeking Machine Learning Engineer / AI Engineer / Data Scientist Early Career Roles
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noah-mea/)
 
 <!--
